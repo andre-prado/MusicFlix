@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Anos 2000",
+      "link": "https://youtu.be/5NPBIwQyPWE",
+      "cor": "#9969CA",
+      "link_extra": {
+        "text": "As mais tocadas dos anos 2000",
+        "url": "https://www.youtube.com/watch?v=5NPBIwQyPWE&list=PLWZUAkUIgAVYR6LjYB43PSngWR6YcmPOn"
+      },
+      "videos": [
+        {
+          "titulo": "Audioslave - Like a Stone",
+          "url": "https://youtu.be/7QU1nvuxaMA"
+        },
+        {
+          "titulo": "Avril Lavigne - Complicated",
+          "url": "https://www.youtube.com/watch?v=5NPBIwQyPWE&list=PLWZUAkUIgAVYR6LjYB43PSngWR6YcmPOn&index=1"
+        },
+        {
+          "titulo": "U2 - Beuatiful Day",
+          "url": "https://youtu.be/co6WMzDOh1o"
+        },
+        {
+          "titulo": "System Of A Down - Chop Suey! ",
+          "url": "https://youtu.be/CSvFpBOe8eY"
+        },
+        {
+          "titulo": "Blur - Song 2",
+          "url": "https://youtu.be/SSbBvKaM6sk"
+        },
+        {
+          "titulo": "Pitty - Na Sua Estante",
+          "url": "https://youtu.be/DP3j6hgS4VY"
+        },
+        {
+          "titulo": "Akon - Lonely",
+          "url": "https://youtu.be/6EEW-9NDM5k"
+        },
+        {
+          "titulo": "Rihanna - Umbrella (Orange Version)",
+          "url": "https://youtu.be/CvBfHwUxHIk"
+        }        
+      ]
+    },
+    {
+      "titulo": "K-POP",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "K-POP Em alta",
+        "url": "https://www.youtube.com/watch?v=ioNng23DkIM&list=PLOHoVaTp8R7dfrJW5pumS0iD_dhlXKv17"
+      },
+      "videos": [
+        {
+          "titulo": "TWICE 'MORE & MORE'",
+          "url": "https://youtu.be/mH0_XpSHkZo"
+        },
+        {
+          "titulo": "Red Velvet - IRENE & SEULGI 'Monster'",
+          "url": "https://youtu.be/Ujb-gvqsoi0"
+        },
+        {
+          "titulo": "BTS (방탄소년단) 'ON'",
+          "url": "https://youtu.be/mPVDGOVjRQ0"
+        },
+        {
+          "titulo": "Dreamcatcher(드림캐쳐) 'Scream'",
+          "url": "https://youtu.be/FKlGHHhTOsQ"
+        }, 
+        {
+          "titulo": "BLACKPINK - 'How You Like That'",
+          "url": "https://youtu.be/ioNng23DkIM"
+        }
+      ]
+    },
+    {
+      "titulo": "Sertanejo",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Sertanejo Em Alta",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Marília Mendonça - BEBI LIGUEI (TODOS OS CANTOS)",
+          "url": "https://youtu.be/2nH7xAMqD2g"
+        },
+        {
+          "titulo": "Gusttavo Lima - Na Hora de Amar (Spending My Time)",
+          "url": "https://youtu.be/Uo7U7ruedic"
+        },
+        {
+          "titulo": "Maiara e Maraisa - Aí Eu bebo - EP Aqui Em Casa",
+          "url": "https://youtu.be/KY_6FYsX6wo"
+        },
+        {
+          "titulo": "Henrique e Juliano - LIBERDADE PROVISÓRIA",
+          "url": "https://youtu.be/ff3r10rCKFs"
+        }
+      ]
+    },
+    {
+      "titulo": "Dua Lipa",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Dua Lipa - Physical ",
+          "url": "https://youtu.be/9HDEHj2yzew"
+        },
+        {
+          "titulo": "Dua Lipa - Break My Heart (Official Video)",
+          "url": "https://youtu.be/Nj2U6rhnucI"
+        },
+        {
+          "titulo": "Dua Lipa - Don't Start Now",
+          "url": "https://youtu.be/oygrmJFKYZY"
+        },
+        {
+          "titulo": "Dua Lipa - New Rules",
+          "url": "https://youtu.be/k2qgadSvNyU"
+        }
+      ]
+    },
+    {
+      "titulo": "Rock Nacional",
+      "cor": "#d1d22e",
+      "link_extra": {
+        "text": "Clássicas e Atuais",
+        "url": "https://www.youtube.com/watch?v=JRJj4z-prvM&list=PL_Q15fKxrBb5hIXum_6kk5vUiPxqFJaH8"
+      },
+      "videos": [
+        {
+          "titulo": "Legião Urbana - Tempo Perdido (ao vivo)",
+          "url": "https://youtu.be/2hr7Uqu6G80"
+        },
+        {
+          "titulo": "Titãs - É Preciso Saber Viver",
+          "url": "https://youtu.be/LpYj_sI79v8"
+        },
+        {
+          "titulo": "Fresno - Porto Alegre",
+          "url": "https://youtu.be/Rl6bWN_OR3g"
+        },
+        {
+          "titulo": "Scalene - Surreal (CLIPE) | Real / Surreal",
+          "url": "https://youtu.be/0p3EDZso9aY"
+        },
+        {
+          "titulo": "Supercombo - Piloto Automático",
+          "url": "https://youtu.be/YW4-V0xQkTg"
+        }
+      ]
+    },
+    {
+      "titulo": "Grunge",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "O Melhor Do Grunge",
+        "url": "https://www.youtube.com/playlist?list=PLrED3zc8hdtRIQf1qnCtfPnrjoHNQkxOS"
+      },
+      "videos": [
+        {
+          "titulo": "Temple Of The Dog - Hunger Strike",
+          "url": "https://youtu.be/VUb450Alpps"
+        },
+        {
+          "titulo": "Alice In Chains - Would?",
+          "url": "https://youtu.be/mOJEcEkR1a8"
+        },
+        {
+          "titulo": "Black",
+          "url": "https://youtu.be/IpwHB2U3J1s"
+        },
+        {
+          "titulo": "Radiohead - Creep",
+          "url": "https://www.youtube.com/watch?v=XFkzRNyygfk"
+        },
+        {
+          "titulo": "Nirvana - Smells Like Teen Spirit",
+          "url": "https://youtu.be/hTWKbfoikeg"
+        }
+      ]
+    }
+  ]
+}
