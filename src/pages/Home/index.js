@@ -13,7 +13,8 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Audioslave was an American rock supergroup formed in Glendale, California in 2001. The four-piece band consisted of Soundgarden's lead singer and rhythm guitarist Chris Cornell with Rage Against the Machine members Tom Morello (lead guitar), Tim Commerford (bass/backing vocals), and Brad Wilk (drums)."}
+        videoDescription={"Audioslave foi um super grupo de rock americano formado na California em 2001. O grupo era formado por quatro integrantes: Chris Cornell, ex-vocalista do Soundgarden\
+                          e Temple of The Dog e os ex-membros do Rage Against the Machine: Tom Morello (guitarrista), Tim Commerford (baixista), e Brad Wilk (bateirista)."}
       />
 
       <Carousel
